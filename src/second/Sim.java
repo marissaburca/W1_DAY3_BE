@@ -12,7 +12,7 @@ public class Sim {
 
     }
     public void printData(){
-        System.out.println("Phone number: "+ phone +". Credit: "+credit +"€. Last 5 calls: "+ calls)
+        System.out.println("Phone number: "+ phone +". Credit: "+credit +"€. Last 5 calls: " /*calls*/);
     }
     //da terminare. Fatica con suddivisione delle classi e dei relativi contenuti.
 }
